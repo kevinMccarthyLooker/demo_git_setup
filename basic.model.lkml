@@ -1,7 +1,7 @@
 connection: "hrblock-poc"
 
 view: dummy {
-  dimension: test {}
+  dimension: test {sql:'test';;}
 }
 
 explore: dummy {}
